@@ -1,4 +1,4 @@
-🔷 3. DEPLOYMENT STEPS (USING REMIX + METAMASK)
+🔷 1. DEPLOYMENT STEPS (USING REMIX + METAMASK)
 ✅ Prerequisites:
 MetaMask wallet connected to Goerli Testnet
 
@@ -46,7 +46,7 @@ Click Deploy.
 
 Confirm transaction in MetaMask.
 
-🔷 4. VERIFY DEPLOYMENT
+🔷 2. VERIFY DEPLOYMENT
 ✅ After Deployment:
 The contract appears under Deployed Contracts.
 
